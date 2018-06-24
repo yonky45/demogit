@@ -1,3 +1,13 @@
+<<<<<<< Updated upstream
 Hola mundo estas ready ??
 
 que es lo que es ??
+=======
+Hola mundo estas ready ??
+
+vacila la piatsa menor
+>>>>>>> Stashed changes
+
+
+
+..............................
